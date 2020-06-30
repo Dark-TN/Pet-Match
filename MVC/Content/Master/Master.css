@@ -1,0 +1,82 @@
+﻿body{
+    background-color: #eaeaea;
+}
+
+.navbar-inverse {
+    background-color: #56a4e6;
+    border-color: #56a4e6;
+}
+
+.navbar-inverse .navbar-nav > li > a {
+    color: #101010;
+}
+
+.perfilMatch {
+    height: 350px;
+    width: auto;
+}
+
+.logo-barra {
+    width: 45px;
+    height: auto;
+    margin-top: 3px;
+    margin-left: 4px;
+}
+
+#exTab3 .nav-pills > li > a {
+    border-radius: 4px 4px 0 0;
+}
+
+#exTab3 .tab-content {
+    color: black;
+    background-color: #eaeaea;
+    padding: 20px;
+}
+
+.panel-body{
+    padding: 20px;
+}
+
+.row-form{
+    padding: 10px;
+}
+
+.main{
+    padding-top: 30px;
+}
+
+.loader {
+    border: 16px solid #2f5fb5;
+    border-radius: 50%;
+    border-top: 16px solid #eaeaea;
+    width: 120px;
+    height: 120px;
+    -webkit-animation: spin 2s linear infinite; /* Safari */
+    animation: spin 2s linear infinite;
+}
+
+/* Safari */
+@-webkit-keyframes spin {
+    0% {
+        -webkit-transform: rotate(0deg);
+    }
+
+    100% {
+        -webkit-transform: rotate(360deg);
+    }
+}
+
+@keyframes spin {
+    0% {
+        transform: rotate(0deg);
+    }
+
+    100% {
+        transform: rotate(360deg);
+    }
+}
+
+.odd {
+    color: #333333 !important;
+    background-color: #eaeaea!important;
+}

@@ -1,0 +1,78 @@
+﻿
+@{
+    ViewBag.Title = "Registro";
+    Layout = "~/Views/Shared/_MasterInicio.cshtml";
+}
+
+    <script type="text/javascript">
+    var urlCatalogoSexoMascota = "@Url.Action("SelectCatalogoSexoMascota", "Catalogo")";
+    var urlCatalogoTipoMascota = "@Url.Action("SelectCatalogoTipoMascota", "Catalogo")";
+    var urlValidarCorreoElectronicoDisponible = "@Url.Action("ValidarCorreoElectronicoDisponible", "Registro")";
+    var urlRegistrar = "@Url.Action("Registrar", "Registro")";
+    </script>
+<script type="text/javascript" src="~/Scripts/Pagina/Registro/Registro.js"></script>
+
+<div class="container" style="width:65%;">
+    <div class="panel panel-success">
+        <div class="panel-heading">
+            <h4>Registro</h4>
+        </div>
+        <div class="panel-body">
+            <div class="row row-form">
+                <div class="col-sm-4">
+                    <label>Nombre:</label>
+                    <input type="text" class="form-control" id="txtNombre" required>
+                </div>
+                <div class="col-sm-4">
+                    <label>Direcci&oacute;n:</label>
+                    <input type="text" class="form-control" id="txtDireccion" required>
+                </div>
+                <div class="col-sm-4">
+                    <label>Nombre de tu mascota:</label>
+                    <input type="text" class="form-control" id="txtNombreMascota" required>
+                </div>
+                <div class="col-sm-4">
+                    <label>Tipo:</label>
+                    <select class="form-control" id="sctTipo" required>
+                        <option value="0">Selecciona una opci&oacute;n</option>
+                    </select>
+                </div>
+                <div class="col-sm-4">
+                    <label>Raza:</label>
+                    <input type="text" class="form-control" id="txtRaza" required>
+                </div>
+                <div class="col-sm-4">
+                    <label>Sexo de tu mascota:</label>
+                    <select class="form-control" id="sctSexo" required>
+                        <option value="0">Selecciona una opci&oacute;n</option>
+                    </select>
+                </div>
+                <div class="col-sm-4">
+                    <label>Correo electr&oacute;nico:</label>
+                    <input type="text" class="form-control Correo" id="txtCorreoElectronico" required>
+                </div>
+                <div class="col-sm-4">
+                    <label>Contraseña:</label>
+                    <input type="password" class="form-control AlfaNumerico" id="txtPassword" required>
+                </div>
+                <div class="col-sm-4">
+                    <label>Confirmar contraseña:</label>
+                    <input type="password" class="form-control AlfaNumerico" id="txtConfirmarPassword" required>
+                </div>
+                <div class="col-sm-4">
+                    <label>Subir imagen:</label>
+                    <input type='file' id="fileImagen"/>
+                    <br><img id="myImg" src="~/Recursos/ImagenesPerfil/noImage.jpg" alt="Tu imagen" height=100 width=100 required>
+                </div>
+            </div>
+            <div class="row row-form">
+                <div class="col-sm-12 text-center">
+                    <label>¿Ya tienes una cuenta? <a href="@Url.Action("Index","Login")">Inicia sesi&oacute;n</a>.</label>
+                </div>
+            </div>
+        </div>
+        <div class="panel-footer text-right">
+            <button type="button" id="btnRegistrar" class="btn btn-success">Registrar</button>
+        </div>
+    </div>
+</div>

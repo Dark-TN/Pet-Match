@@ -1,0 +1,46 @@
+﻿
+@model EntityLayer.Negocio.Login.OLogin
+
+@{
+    ViewBag.Title = "Iniciar sesión";
+    Layout = "~/Views/Shared/_MasterInicio.cshtml";
+}
+<script type="text/javascript">
+    var urlValidarCorreoElectronico = '@Url.Action("ValidarCorreoElectronico", "Login")';
+</script>
+<script type="text/javascript" src="~/Scripts/Pagina/Login/Login.js"></script>
+
+<script type="text/javascript">
+        @Html.Raw(ViewBag.Mensaje)
+</script>
+
+<div class="container" style="width: 45%;">
+    <div class="panel panel-success">
+        <div class="panel-heading">
+            <h4>Iniciar sesi&oacute;n</h4>
+        </div>
+        @using (Html.BeginForm("Login", "Login", FormMethod.Post))
+        {
+            <div class="panel-body">
+                <div class="row row-form">
+                    <div class="col-sm-6">
+                        <label>Correo electr&oacute;nico:</label>
+                        @Html.TextBoxFor(x => x.CorreoElectronico, new { @class = "form-control Correo", @id = "txtCorreoElectronico", required = "required"})
+                    </div>
+                    <div class="col-sm-6">
+                        <label>Contraseña:</label>
+                        @Html.TextBoxFor(x => x.Password, new { @class = "form-control", @type = "password", required = "required"})
+                    </div>
+                </div>
+                <div class="row row-form">
+                    <div class="col-sm-12 text-center">
+                        <label>¿No tienes cuenta? <a href="@Url.Action("Index", "Registro")">Reg&iacute;strate</a>.</label>
+                    </div>
+                </div>
+            </div>
+            <div class="panel-footer text-right">
+                <button type="submit" class="btn btn-success">Iniciar sesi&oacute;n</button>
+            </div>
+        }
+        </div>
+</div>

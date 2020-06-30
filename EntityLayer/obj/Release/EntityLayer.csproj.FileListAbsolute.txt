@@ -1,0 +1,5 @@
+C:\Users\jedua\Documents\Portales\RegistroFeria\EntityLayer\bin\Release\EntityLayer.dll
+C:\Users\jedua\Documents\Portales\RegistroFeria\EntityLayer\bin\Release\EntityLayer.pdb
+C:\Users\jedua\Documents\Portales\RegistroFeria\EntityLayer\obj\Release\EntityLayer.csprojResolveAssemblyReference.cache
+C:\Users\jedua\Documents\Portales\RegistroFeria\EntityLayer\obj\Release\EntityLayer.dll
+C:\Users\jedua\Documents\Portales\RegistroFeria\EntityLayer\obj\Release\EntityLayer.pdb

@@ -1,0 +1,43 @@
+﻿
+@{
+    ViewBag.Title = "Inicio";
+    Layout = "~/Views/Shared/_MasterUsuario.cshtml";
+}
+
+<script type="text/javascript" src="~/Scripts/Pagina/Chat/Chat.js"></script>
+<script type="text/javascript">
+        var urlSelectListaMatch = "@Url.Action("SelectListaMatch", "Chat")";
+</script>
+
+<div class="container" style="width:65%">
+    <div class="panel panel-success">
+        <div class="panel-heading text-center">
+            <h4>Chat</h4>
+        </div>
+        <div class="panel-body text-center">
+            <table style="width:100%">
+                <tr>
+                    <th style="width:15%">
+                        <ul class="list-group" id="listaMatch">
+                        </ul>
+                    </th>
+                    <th>
+
+                    </th>
+
+                </tr>
+            </table>
+            <div class="col-sm-4">
+                <label>Mensaje:</label>
+            </div>
+            <div class="col-sm-4">
+                <input type="text" class="form-control" id="txtMensaje" required>
+            </div>
+            <div class="col-sm-4">
+                <button type="button" id="btnEnviar" class="btn btn-success">Enviar</button>
+            </div>
+        </div>
+    </div>
+</div>
+
+

@@ -1,0 +1,35 @@
+C:\TFS\ProyectoVales\EntityLayer\bin\Debug\EntityLayer.dll
+C:\TFS\ProyectoVales\EntityLayer\bin\Debug\EntityLayer.pdb
+C:\TFS\ProyectoVales\EntityLayer\obj\Debug\EntityLayer.csprojAssemblyReference.cache
+C:\TFS\ProyectoVales\EntityLayer\obj\Debug\EntityLayer.csproj.CoreCompileInputs.cache
+C:\TFS\ProyectoVales\EntityLayer\obj\Debug\EntityLayer.dll
+C:\TFS\ProyectoVales\EntityLayer\obj\Debug\EntityLayer.pdb
+C:\Users\esAdmIN\Documents\SISTEMA INVENTARIOS\Inventarios\EntityLayer\bin\Debug\EntityLayer.dll
+C:\Users\esAdmIN\Documents\SISTEMA INVENTARIOS\Inventarios\EntityLayer\bin\Debug\EntityLayer.pdb
+C:\Users\esAdmIN\Documents\SISTEMA INVENTARIOS\Inventarios\EntityLayer\obj\Debug\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\esAdmIN\Documents\SISTEMA INVENTARIOS\Inventarios\EntityLayer\obj\Debug\EntityLayer.dll
+C:\Users\esAdmIN\Documents\SISTEMA INVENTARIOS\Inventarios\EntityLayer\obj\Debug\EntityLayer.pdb
+C:\Users\esAdmIN\Documents\SISTEMA INVENTARIOS\Inventarios\EntityLayer\obj\Debug\EntityLayer.csprojAssemblyReference.cache
+C:\Users\jedua\Desktop\SIBOLTRA\EntityLayer\bin\Debug\EntityLayer.dll
+C:\Users\jedua\Desktop\SIBOLTRA\EntityLayer\bin\Debug\EntityLayer.pdb
+C:\Users\jedua\Desktop\SIBOLTRA\EntityLayer\obj\Debug\EntityLayer.csprojResolveAssemblyReference.cache
+C:\Users\jedua\Desktop\SIBOLTRA\EntityLayer\obj\Debug\EntityLayer.dll
+C:\Users\jedua\Desktop\SIBOLTRA\EntityLayer\obj\Debug\EntityLayer.pdb
+C:\Users\jedua\Desktop\registro_api\EntityLayer\bin\Debug\EntityLayer.dll
+C:\Users\jedua\Desktop\registro_api\EntityLayer\bin\Debug\EntityLayer.pdb
+C:\Users\jedua\Desktop\registro_api\EntityLayer\obj\Debug\EntityLayer.dll
+C:\Users\jedua\Desktop\registro_api\EntityLayer\obj\Debug\EntityLayer.pdb
+C:\Users\jedua\Desktop\registro_api\EntityLayer\obj\Debug\EntityLayer.csprojAssemblyReference.cache
+C:\Users\jedua\Desktop\registro_api\EntityLayer\obj\Debug\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\jedua\Desktop\Registro\EntityLayer\bin\Debug\EntityLayer.dll
+C:\Users\jedua\Desktop\Registro\EntityLayer\bin\Debug\EntityLayer.pdb
+C:\Users\jedua\Desktop\Registro\EntityLayer\obj\Debug\EntityLayer.csprojAssemblyReference.cache
+C:\Users\jedua\Desktop\Registro\EntityLayer\obj\Debug\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\jedua\Desktop\Registro\EntityLayer\obj\Debug\EntityLayer.dll
+C:\Users\jedua\Desktop\Registro\EntityLayer\obj\Debug\EntityLayer.pdb
+C:\Users\jedua\Documents\ESCOM\ADOO\Proyecto\EntityLayer\bin\Debug\EntityLayer.dll
+C:\Users\jedua\Documents\ESCOM\ADOO\Proyecto\EntityLayer\bin\Debug\EntityLayer.pdb
+C:\Users\jedua\Documents\ESCOM\ADOO\Proyecto\EntityLayer\obj\Debug\EntityLayer.csprojAssemblyReference.cache
+C:\Users\jedua\Documents\ESCOM\ADOO\Proyecto\EntityLayer\obj\Debug\EntityLayer.csproj.CoreCompileInputs.cache
+C:\Users\jedua\Documents\ESCOM\ADOO\Proyecto\EntityLayer\obj\Debug\EntityLayer.dll
+C:\Users\jedua\Documents\ESCOM\ADOO\Proyecto\EntityLayer\obj\Debug\EntityLayer.pdb

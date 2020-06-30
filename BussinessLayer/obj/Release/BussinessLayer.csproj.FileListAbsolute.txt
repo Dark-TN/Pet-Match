@@ -1,0 +1,9 @@
+C:\Users\jedua\Documents\Portales\RegistroFeria\BussinessLayer\bin\Release\BussinessLayer.dll
+C:\Users\jedua\Documents\Portales\RegistroFeria\BussinessLayer\bin\Release\BussinessLayer.pdb
+C:\Users\jedua\Documents\Portales\RegistroFeria\BussinessLayer\bin\Release\DataLayer.dll
+C:\Users\jedua\Documents\Portales\RegistroFeria\BussinessLayer\bin\Release\EntityLayer.dll
+C:\Users\jedua\Documents\Portales\RegistroFeria\BussinessLayer\bin\Release\DataLayer.pdb
+C:\Users\jedua\Documents\Portales\RegistroFeria\BussinessLayer\bin\Release\EntityLayer.pdb
+C:\Users\jedua\Documents\Portales\RegistroFeria\BussinessLayer\obj\Release\BussinessLayer.csprojResolveAssemblyReference.cache
+C:\Users\jedua\Documents\Portales\RegistroFeria\BussinessLayer\obj\Release\BussinessLayer.dll
+C:\Users\jedua\Documents\Portales\RegistroFeria\BussinessLayer\obj\Release\BussinessLayer.pdb

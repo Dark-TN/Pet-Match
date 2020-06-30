@@ -1,0 +1,20 @@
+﻿
+@{
+    ViewBag.Title = "Inicio";
+    Layout = "~/Views/Shared/_MasterUsuario.cshtml";
+}
+
+<div class="container" style="width:65%;">
+    <div class="panel panel-success">
+        <div class="panel-heading text-center">
+            <h4 id="perfilNombre">Nombre</h4>
+            <h5 id="perfilDatos">Tipo, raza, edad, color, ubicaci&oacute;n</h5>
+        </div>
+        <div class="panel-body text-center">
+            <img src="~/Recursos/ImagenesPerfil/noImage.jpg" class="perfilMatch" id="perfilImg"/>
+        </div>
+        <button style ="width:50%;" type="button" id="btnLike" class="btn btn-success pull-right">Like</button>
+        <button style ="width:50%;"type="button" id="btnPasar" class="btn btn-danger pull-left">Pasar</button>
+    </div>
+</div>
+

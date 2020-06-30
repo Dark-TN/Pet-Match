@@ -1,0 +1,27 @@
+C:\TFS\ProyectoVales\DataLayer\bin\Debug\DataLayer.dll
+C:\TFS\ProyectoVales\DataLayer\bin\Debug\DataLayer.pdb
+C:\TFS\ProyectoVales\DataLayer\obj\Debug\DataLayer.csprojAssemblyReference.cache
+C:\TFS\ProyectoVales\DataLayer\obj\Debug\DataLayer.csproj.CoreCompileInputs.cache
+C:\TFS\ProyectoVales\DataLayer\obj\Debug\DataLayer.dll
+C:\TFS\ProyectoVales\DataLayer\obj\Debug\DataLayer.pdb
+C:\Users\esAdmIN\Documents\SISTEMA INVENTARIOS\Inventarios\DataLayer\bin\Debug\DataLayer.dll
+C:\Users\esAdmIN\Documents\SISTEMA INVENTARIOS\Inventarios\DataLayer\bin\Debug\DataLayer.pdb
+C:\Users\esAdmIN\Documents\SISTEMA INVENTARIOS\Inventarios\DataLayer\obj\Debug\DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\esAdmIN\Documents\SISTEMA INVENTARIOS\Inventarios\DataLayer\obj\Debug\DataLayer.dll
+C:\Users\esAdmIN\Documents\SISTEMA INVENTARIOS\Inventarios\DataLayer\obj\Debug\DataLayer.pdb
+C:\Users\jedua\Desktop\SIBOLTRA\DataLayer\bin\Debug\DataLayer.dll
+C:\Users\jedua\Desktop\SIBOLTRA\DataLayer\bin\Debug\DataLayer.pdb
+C:\Users\jedua\Desktop\SIBOLTRA\DataLayer\obj\Debug\DataLayer.csprojResolveAssemblyReference.cache
+C:\Users\jedua\Desktop\SIBOLTRA\DataLayer\obj\Debug\DataLayer.dll
+C:\Users\jedua\Desktop\SIBOLTRA\DataLayer\obj\Debug\DataLayer.pdb
+C:\Users\jedua\Desktop\registro_api\DataLayer\bin\Debug\DataLayer.dll
+C:\Users\jedua\Desktop\registro_api\DataLayer\bin\Debug\DataLayer.pdb
+C:\Users\jedua\Desktop\registro_api\DataLayer\obj\Debug\DataLayer.dll
+C:\Users\jedua\Desktop\registro_api\DataLayer\obj\Debug\DataLayer.pdb
+C:\Users\jedua\Desktop\registro_api\DataLayer\obj\Debug\DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\jedua\Documents\ESCOM\ADOO\Proyecto\DataLayer\bin\Debug\DataLayer.dll
+C:\Users\jedua\Documents\ESCOM\ADOO\Proyecto\DataLayer\bin\Debug\DataLayer.pdb
+C:\Users\jedua\Documents\ESCOM\ADOO\Proyecto\DataLayer\obj\Debug\DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\jedua\Documents\ESCOM\ADOO\Proyecto\DataLayer\obj\Debug\DataLayer.dll
+C:\Users\jedua\Documents\ESCOM\ADOO\Proyecto\DataLayer\obj\Debug\DataLayer.pdb
+C:\Users\jedua\Documents\ESCOM\ADOO\Proyecto\DataLayer\obj\Debug\DataLayer.csprojAssemblyReference.cache

@@ -1,0 +1,75 @@
+C:\TFS\ProyectoVales\BussinessLayer\bin\Debug\BussinessLayer.dll
+C:\TFS\ProyectoVales\BussinessLayer\bin\Debug\BussinessLayer.pdb
+C:\TFS\ProyectoVales\BussinessLayer\bin\Debug\DataLayer.dll
+C:\TFS\ProyectoVales\BussinessLayer\bin\Debug\EntityLayer.dll
+C:\TFS\ProyectoVales\BussinessLayer\bin\Debug\DataLayer.pdb
+C:\TFS\ProyectoVales\BussinessLayer\bin\Debug\EntityLayer.pdb
+C:\TFS\ProyectoVales\BussinessLayer\obj\Debug\BussinessLayer.csprojAssemblyReference.cache
+C:\TFS\ProyectoVales\BussinessLayer\obj\Debug\BussinessLayer.csproj.CoreCompileInputs.cache
+C:\TFS\ProyectoVales\BussinessLayer\obj\Debug\BussinessLayer.csproj.CopyComplete
+C:\TFS\ProyectoVales\BussinessLayer\obj\Debug\BussinessLayer.dll
+C:\TFS\ProyectoVales\BussinessLayer\obj\Debug\BussinessLayer.pdb
+C:\TFS\Inventarios\BussinessLayer\bin\Debug\BussinessLayer.dll
+C:\TFS\Inventarios\BussinessLayer\bin\Debug\BussinessLayer.pdb
+C:\TFS\Inventarios\BussinessLayer\bin\Debug\DataLayer.dll
+C:\TFS\Inventarios\BussinessLayer\bin\Debug\EntityLayer.dll
+C:\TFS\Inventarios\BussinessLayer\bin\Debug\DataLayer.pdb
+C:\TFS\Inventarios\BussinessLayer\bin\Debug\EntityLayer.pdb
+C:\TFS\Inventarios\BussinessLayer\obj\Debug\BussinessLayer.csprojAssemblyReference.cache
+C:\TFS\Inventarios\BussinessLayer\obj\Debug\BussinessLayer.csproj.CoreCompileInputs.cache
+C:\TFS\Inventarios\BussinessLayer\obj\Debug\BussinessLayer.csproj.CopyComplete
+C:\TFS\Inventarios\BussinessLayer\obj\Debug\BussinessLayer.dll
+C:\TFS\Inventarios\BussinessLayer\obj\Debug\BussinessLayer.pdb
+C:\Users\esAdmIN\Documents\SISTEMA INVENTARIOS\Inventarios\BussinessLayer\bin\Debug\BussinessLayer.dll
+C:\Users\esAdmIN\Documents\SISTEMA INVENTARIOS\Inventarios\BussinessLayer\bin\Debug\BussinessLayer.pdb
+C:\Users\esAdmIN\Documents\SISTEMA INVENTARIOS\Inventarios\BussinessLayer\bin\Debug\DataLayer.dll
+C:\Users\esAdmIN\Documents\SISTEMA INVENTARIOS\Inventarios\BussinessLayer\bin\Debug\EntityLayer.dll
+C:\Users\esAdmIN\Documents\SISTEMA INVENTARIOS\Inventarios\BussinessLayer\bin\Debug\DataLayer.pdb
+C:\Users\esAdmIN\Documents\SISTEMA INVENTARIOS\Inventarios\BussinessLayer\bin\Debug\EntityLayer.pdb
+C:\Users\esAdmIN\Documents\SISTEMA INVENTARIOS\Inventarios\BussinessLayer\obj\Debug\BussinessLayer.csprojAssemblyReference.cache
+C:\Users\esAdmIN\Documents\SISTEMA INVENTARIOS\Inventarios\BussinessLayer\obj\Debug\BussinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\esAdmIN\Documents\SISTEMA INVENTARIOS\Inventarios\BussinessLayer\obj\Debug\BussinessLayer.csproj.CopyComplete
+C:\Users\esAdmIN\Documents\SISTEMA INVENTARIOS\Inventarios\BussinessLayer\obj\Debug\BussinessLayer.dll
+C:\Users\esAdmIN\Documents\SISTEMA INVENTARIOS\Inventarios\BussinessLayer\obj\Debug\BussinessLayer.pdb
+C:\Users\jedua\Desktop\SIBOLTRA\BussinessLayer\bin\Debug\BussinessLayer.dll
+C:\Users\jedua\Desktop\SIBOLTRA\BussinessLayer\bin\Debug\BussinessLayer.pdb
+C:\Users\jedua\Desktop\SIBOLTRA\BussinessLayer\bin\Debug\DataLayer.dll
+C:\Users\jedua\Desktop\SIBOLTRA\BussinessLayer\bin\Debug\EntityLayer.dll
+C:\Users\jedua\Desktop\SIBOLTRA\BussinessLayer\bin\Debug\DataLayer.pdb
+C:\Users\jedua\Desktop\SIBOLTRA\BussinessLayer\bin\Debug\EntityLayer.pdb
+C:\Users\jedua\Desktop\SIBOLTRA\BussinessLayer\obj\Debug\BussinessLayer.csprojResolveAssemblyReference.cache
+C:\Users\jedua\Desktop\SIBOLTRA\BussinessLayer\obj\Debug\BussinessLayer.dll
+C:\Users\jedua\Desktop\SIBOLTRA\BussinessLayer\obj\Debug\BussinessLayer.pdb
+C:\Users\jedua\Desktop\registro_api\BussinessLayer\bin\Debug\BussinessLayer.dll
+C:\Users\jedua\Desktop\registro_api\BussinessLayer\bin\Debug\BussinessLayer.pdb
+C:\Users\jedua\Desktop\registro_api\BussinessLayer\bin\Debug\DataLayer.dll
+C:\Users\jedua\Desktop\registro_api\BussinessLayer\bin\Debug\EntityLayer.dll
+C:\Users\jedua\Desktop\registro_api\BussinessLayer\bin\Debug\DataLayer.pdb
+C:\Users\jedua\Desktop\registro_api\BussinessLayer\bin\Debug\EntityLayer.pdb
+C:\Users\jedua\Desktop\registro_api\BussinessLayer\obj\Debug\BussinessLayer.dll
+C:\Users\jedua\Desktop\registro_api\BussinessLayer\obj\Debug\BussinessLayer.pdb
+C:\Users\jedua\Desktop\registro_api\BussinessLayer\obj\Debug\BussinessLayer.csprojAssemblyReference.cache
+C:\Users\jedua\Desktop\registro_api\BussinessLayer\obj\Debug\BussinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\jedua\Desktop\registro_api\BussinessLayer\obj\Debug\BussinessLayer.csproj.CopyComplete
+C:\Users\jedua\Desktop\Registro\BussinessLayer\bin\Debug\BussinessLayer.dll
+C:\Users\jedua\Desktop\Registro\BussinessLayer\bin\Debug\BussinessLayer.pdb
+C:\Users\jedua\Desktop\Registro\BussinessLayer\bin\Debug\DataLayer.dll
+C:\Users\jedua\Desktop\Registro\BussinessLayer\bin\Debug\EntityLayer.dll
+C:\Users\jedua\Desktop\Registro\BussinessLayer\bin\Debug\DataLayer.pdb
+C:\Users\jedua\Desktop\Registro\BussinessLayer\bin\Debug\EntityLayer.pdb
+C:\Users\jedua\Desktop\Registro\BussinessLayer\obj\Debug\BussinessLayer.csprojAssemblyReference.cache
+C:\Users\jedua\Desktop\Registro\BussinessLayer\obj\Debug\BussinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\jedua\Desktop\Registro\BussinessLayer\obj\Debug\BussinessLayer.csproj.CopyComplete
+C:\Users\jedua\Desktop\Registro\BussinessLayer\obj\Debug\BussinessLayer.dll
+C:\Users\jedua\Desktop\Registro\BussinessLayer\obj\Debug\BussinessLayer.pdb
+C:\Users\jedua\Documents\ESCOM\ADOO\Proyecto\BussinessLayer\bin\Debug\BussinessLayer.dll
+C:\Users\jedua\Documents\ESCOM\ADOO\Proyecto\BussinessLayer\bin\Debug\BussinessLayer.pdb
+C:\Users\jedua\Documents\ESCOM\ADOO\Proyecto\BussinessLayer\bin\Debug\DataLayer.dll
+C:\Users\jedua\Documents\ESCOM\ADOO\Proyecto\BussinessLayer\bin\Debug\EntityLayer.dll
+C:\Users\jedua\Documents\ESCOM\ADOO\Proyecto\BussinessLayer\bin\Debug\DataLayer.pdb
+C:\Users\jedua\Documents\ESCOM\ADOO\Proyecto\BussinessLayer\bin\Debug\EntityLayer.pdb
+C:\Users\jedua\Documents\ESCOM\ADOO\Proyecto\BussinessLayer\obj\Debug\BussinessLayer.csprojAssemblyReference.cache
+C:\Users\jedua\Documents\ESCOM\ADOO\Proyecto\BussinessLayer\obj\Debug\BussinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\jedua\Documents\ESCOM\ADOO\Proyecto\BussinessLayer\obj\Debug\BussinessLayer.csproj.CopyComplete
+C:\Users\jedua\Documents\ESCOM\ADOO\Proyecto\BussinessLayer\obj\Debug\BussinessLayer.dll
+C:\Users\jedua\Documents\ESCOM\ADOO\Proyecto\BussinessLayer\obj\Debug\BussinessLayer.pdb

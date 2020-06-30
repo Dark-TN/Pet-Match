@@ -1,0 +1,5 @@
+C:\Users\jedua\Documents\Portales\RegistroFeria\DataLayer\bin\Release\DataLayer.dll
+C:\Users\jedua\Documents\Portales\RegistroFeria\DataLayer\bin\Release\DataLayer.pdb
+C:\Users\jedua\Documents\Portales\RegistroFeria\DataLayer\obj\Release\DataLayer.csprojResolveAssemblyReference.cache
+C:\Users\jedua\Documents\Portales\RegistroFeria\DataLayer\obj\Release\DataLayer.dll
+C:\Users\jedua\Documents\Portales\RegistroFeria\DataLayer\obj\Release\DataLayer.pdb
